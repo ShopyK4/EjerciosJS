@@ -298,6 +298,8 @@ function ejercicio13() {
     let arrayFiltrado = arrayNumeros.filter((i) => i > 1);
     console.log("Array filtrado");
     console.log(arrayFiltrado);
+    
+    // xdddd comit 2
 }
 
 
